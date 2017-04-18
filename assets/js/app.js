@@ -33,5 +33,5 @@ function createBoxBlue() {
 
   parent.appendChild(boxBlue);
   boxBlue.appendChild(boxBlueMedium);
-  boxBlueMedium.appendChild(boxBlueLittle);
+  boxBlue.appendChild(boxBlueLittle);
 }
